@@ -1,0 +1,15 @@
+{
+    "express": {
+        "view cache": false
+    },
+
+    "middleware": {
+
+        "router": {
+            "module": {
+                "arguments": [{ "index": "path:./routes" }]
+            }
+        }
+    }
+
+}

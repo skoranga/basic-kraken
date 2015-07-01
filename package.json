@@ -1,0 +1,12 @@
+{
+  "name": "basic-kraken",
+  "version": "0.1.0",
+  "description": "basic kraken",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "kraken-js": "^1.0.1",
+    "express": "^4.3.0"
+  }
+}
